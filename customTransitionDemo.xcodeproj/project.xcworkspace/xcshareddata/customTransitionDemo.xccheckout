@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>851DBCE2-B1EC-4C9E-A600-D86D7D2A61CF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>customTransitionDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F95BCB88C7A98877DE40D0E4CEB2F8AF198B4E69</key>
+		<string>https://github.com/Onetaway/CustomNavigationTransition.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>customTransitionDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F95BCB88C7A98877DE40D0E4CEB2F8AF198B4E69</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Onetaway/CustomNavigationTransition.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F95BCB88C7A98877DE40D0E4CEB2F8AF198B4E69</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F95BCB88C7A98877DE40D0E4CEB2F8AF198B4E69</string>
+			<key>IDESourceControlWCCName</key>
+			<string>customTransitionDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
